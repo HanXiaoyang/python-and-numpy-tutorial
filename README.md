@@ -1,2 +1,2 @@
-# 一个简单的python和numpy入门ipython notebook
+### 一个简单的python和numpy入门ipython notebook
 涵盖了基本的python语法和简短技巧介绍，以及numpy在科学运算中的一些用法
